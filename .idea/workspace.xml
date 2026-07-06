@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90048903-b582-4a12-9d2d-f24e1737cffb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/DataStructures/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Estore/Estore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estore/Estore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankApp/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankApp/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bankApp/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bankApp/AccountTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FG1lkH6qBu4u0m1EaDuM2DKZ7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AccountTest.checkBalanceWithCorrectPin_returnsBalanceTest.executor": "Run",
+    "JUnit.AccountTest.deposit200inEmptyAccount_balanceIs200Test.executor": "Run",
+    "JUnit.AccountTest.executor": "Run",
+    "JUnit.AirConditioner.iHaveAnAirConditioner_iTurnOn_isOn.executor": "Run",
+    "JUnit.AirConditionerTest (1).executor": "Run",
+    "JUnit.AirConditionerTest.executor": "Run",
+    "JUnit.AirConditionerTest.iHaveAnAirConditioner_iTurnOn_isOn.executor": "Run",
+    "JUnit.AirConditionerTest.temperatureDecrease17_temperatureDecreases16.executor": "Run",
+    "JUnit.AirConditionerTest.temperatureDecreaseBelow16_temperatureStill16.executor": "Coverage",
+    "JUnit.AirConditionerTest.temperatureIncrease16_temperatureIncreases17.executor": "Run",
+    "JUnit.AirConditionerTest.temperatureIncreaseBeyond30_temperatureStill30.executor": "Run",
+    "JUnit.AirConditionerTest.turnAirConditionerOff_isOff.executor": "Run",
+    "JUnit.AirConditionerTest.turnOnAnAirConditioner_airConditionerIsOn.executor": "Run",
+    "JUnit.AutoBikeTest.executor": "Run",
+    "JUnit.AutoBikeTest.gearDecreased_accelerationDecreases.executor": "Run",
+    "JUnit.AutoBikeTest.gearIncreased2_accelerationIncreases2.executor": "Run",
+    "JUnit.AutoBikeTest.gearIncreased_accelerationIncreases.executor": "Run",
+    "JUnit.AutoBikeTest.speedIncreasedTo31_gearIncreasedTo3.executor": "Run",
+    "JUnit.AutoBikeTest.speedIncreasedabove30_gearIncreasedTo2.executor": "Run",
+    "JUnit.AutoBikeTest.turnOnAutoBike_isOn.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.BankTest.createMyBank_accountListIsZeroTest.executor": "Run",
+    "JUnit.MyQueueTest.executor": "Run",
+    "JUnit.MyQueueTest.pushX_PushY_pollXTest.executor": "Run",
+    "JUnit.MyStackTest.executor": "Run",
+    "JUnit.StateLocatorTest.executor": "Run",
+    "JUnit.StateLocatorTest.shouldReturnSouthWestWhenStateIsLagos.executor": "Run",
+    "JUnit.Whole project.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/gamp/Desktop/JAVA_TASKS/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/gamp/Desktop/JAVA_TASKS/Java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bankApp" />
+      <recent name="geopoliticalZone" />
+      <recent name="Estore" />
+      <recent name="AirCondition" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="AirConditioner" />
+    </key>
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BankTest.createMyBank_accountListIsZeroTest">
+    <configuration name="AccountTest.checkBalanceWithCorrectPin_returnsBalanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankApp" />
+      <option name="MAIN_CLASS_NAME" value="bankApp.AccountTest" />
+      <option name="METHOD_NAME" value="checkBalanceWithCorrectPin_returnsBalanceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.createMyBank_accountListIsZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA_TASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankApp" />
+      <option name="MAIN_CLASS_NAME" value="bankApp.BankTest" />
+      <option name="METHOD_NAME" value="createMyBank_accountListIsZeroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructures" />
+      <option name="MAIN_CLASS_NAME" value="DataStructures.MyQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateLocatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GeopoliticalZone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geopoliticalZone" />
+      <option name="MAIN_CLASS_NAME" value="GeopoliticalZone.StateLocatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateLocatorTest.shouldReturnSouthWestWhenStateIsLagos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GeopoliticalZone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geopoliticalZone" />
+      <option name="MAIN_CLASS_NAME" value="GeopoliticalZone.StateLocatorTest" />
+      <option name="METHOD_NAME" value="shouldReturnSouthWestWhenStateIsLagos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="zulu-26" />
+      <option name="PACKAGE_NAME" value="bankApp" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="$Classpath$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Whole project" />
+      <item itemvalue="JUnit.BankTest.createMyBank_accountListIsZeroTest" />
+      <item itemvalue="JUnit.AccountTest.checkBalanceWithCorrectPin_returnsBalanceTest" />
+      <item itemvalue="JUnit.MyQueueTest" />
+      <item itemvalue="JUnit.StateLocatorTest" />
+      <item itemvalue="JUnit.StateLocatorTest.shouldReturnSouthWestWhenStateIsLagos" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankTest.createMyBank_accountListIsZeroTest" />
+        <item itemvalue="JUnit.StateLocatorTest" />
+        <item itemvalue="JUnit.StateLocatorTest.shouldReturnSouthWestWhenStateIsLagos" />
+        <item itemvalue="JUnit.AccountTest.checkBalanceWithCorrectPin_returnsBalanceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90048903-b582-4a12-9d2d-f24e1737cffb" name="Changes" comment="" />
+      <created>1781686759149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781686759149</updated>
+      <workItem from="1781686760638" duration="1981000" />
+      <workItem from="1781814341090" duration="20938000" />
+      <workItem from="1781855686754" duration="10805000" />
+      <workItem from="1781921348366" duration="37418000" />
+      <workItem from="1782202415542" duration="18197000" />
+      <workItem from="1782306109856" duration="4427000" />
+      <workItem from="1782334986556" duration="8569000" />
+      <workItem from="1782810517519" duration="2167000" />
+      <workItem from="1782851642553" duration="13953000" />
+      <workItem from="1783089101480" duration="4207000" />
+      <workItem from="1783165010237" duration="10650000" />
+      <workItem from="1783345202931" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1783335687147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Java$AirConditionerTest_temperatureDecreaseBelow16_temperatureStill16.ic" NAME="AirConditionerTest.temperatureDecreaseBelow16_temperatureStill16 Coverage Results" MODIFIED="1781847317256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>AirCondition.*</FILTER>
+    </SUITE>
+  </component>
+</project>

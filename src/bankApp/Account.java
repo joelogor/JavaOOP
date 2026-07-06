@@ -6,6 +6,9 @@ public class Account {
 
     private String pin = "1234";
 
+    public Account(String firstName, String lastName, String accountNumber, String pin) {
+    }
+
 
     public int getBalance(String inputPin) {
         validatePin(inputPin);
